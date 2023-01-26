@@ -81,6 +81,10 @@ body {
   left: 0;
 }
 
+.page__active.page__active--color {
+  color: var(--ocean);
+}
+
 .header {
   border-bottom: 1px solid var(--cornflower);
   padding: 24px 0;
